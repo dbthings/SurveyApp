@@ -1,2 +1,2 @@
 # SurveyApp
-Angular 9 + Spring App
+Angular 9 + Spring Boot App
